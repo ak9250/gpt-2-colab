@@ -1,6 +1,6 @@
 # gpt-2-colab
 
-train gpt-2 in google colab
+finetune gpt-2(https://github.com/openai/gpt-2) in google colab
 
 ## sample result from retraining on A Tale of Two Cities by Charles Dickens
 
