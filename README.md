@@ -2,7 +2,7 @@
 
 finetune gpt-2(https://github.com/openai/gpt-2) in google colab
 
-## sample result from retraining on A Tale of Two Cities by Charles Dickens
+## sample result (117M) from retraining on A Tale of Two Cities by Charles Dickens
 
 No, Jerry! Jerry! You're a nice man, Jerry!”
 
